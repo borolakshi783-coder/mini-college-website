@@ -22,7 +22,7 @@ A simple and responsive college website developed using HTML5 and CSS3. The webs
 
 ## Screenshot
 
-![Suren Das College Website](images/screenshot.png) 
+![Suren Das College Website](imagescreenshot1.png) 
 
 ## Live Demo
 
