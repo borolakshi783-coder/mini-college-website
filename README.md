@@ -22,11 +22,11 @@ A simple and responsive college website developed using HTML5 and CSS3. The webs
 
 ## Screenshot
 
-Suren Das College Website 
+![Suren Das College Website](images/screenshot.png) 
 
 ## Live Demo
 
-(https://borolakshi783-coder.github.io/mini-college-website/)
+[Live Demo Link show click here](https://borolakshi783-coder.github.io/mini-college-website/)
 
 ## Author
 
